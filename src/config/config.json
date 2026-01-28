@@ -13,8 +13,8 @@
     "aloneRight": false
   },
   "bgConfig": {
-    "bg": ["https://roc.us.ci/file/bgd(1).jpg"],
-    "mbg": ["https://roc.us.ci/file/bgd(1).jpg"],
+    "bg": ["/bgd.jpg"],
+    "mbg": ["/bgd.jpg"],
     "bgStyle": "snow",
     "blur": "",
     "cardOpacity": 0.1,
