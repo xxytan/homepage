@@ -34,14 +34,14 @@
     "style": "",
     "istTransition": true
   },
-  "subTitle": "https://v1.hitokoto.cn?c=a&c=b&c=c",
+  "subTitle": "无聊的一天搭配神经的我～",
   "subTitleConfig": {
     "typing": true,
     "loading": "wave",
-    "loopTyping": true,
+    "loopTyping": false,
     "shadow": false,
     "typingCursor": true,
-    "showFrom": true,
+    "showFrom": false,
     "style": "desc",
     "gapDelay": 0.05,
     "content": "你好呀！我是Kentural",
@@ -49,35 +49,40 @@
   },
   "links": [
     {
-      "title": "qq",
-      "color": "#dfba00",
-      "url": "https://qm.qq.com/q/dMW8b9EhIA",
-      "icon": "qq"
-    },
-    {
-      "title": "telegram",
-      "color": "#1da1f2",
-      "url": "https://t.me/kentural",
-      "icon": "telegram"
-    },
-    {
-      "title": "github",
-      "color": "#000000",
-      "url": "https://github.com/xxytan",
-      "icon": "github"
-    },
-    {
-      "title": "email",
+      "title": "E-mail",
       "color": "#fd3232",
       "url": "mailto:msbyshens@outlook.com",
       "icon": "email"
     },
     {
-      "title": "bilibili",
+      "title": "Github",
+      "color": "#000000",
+      "url": "https://github.com/xxytan",
+      "icon": "github"
+    },
+    {
+      "title": "QQ",
+      "color": "#dfba00",
+      "url": "https://qm.qq.com/q/dMW8b9EhIA",
+      "icon": "qq"
+    },
+    {
+      "title": "Telegram",
+      "color": "#1da1f2",
+      "url": "https://t.me/kentural",
+      "icon": "telegram"
+    },
+    {
+      "title": "Bilibili",
       "color": "#0088cc",
       "url": "https://space.bilibili.com/1580336394",
       "icon": "bilibili"
-    }
+    },
+    {
+      "title": "Instagram",
+      "color": "#fc50a6",
+      "url": "https://www.instagram.com/kentur.al",
+      "icon": "instagram"}
   ],
   "sites": [
     {
@@ -106,8 +111,20 @@
     },
     {
       "icon": "",
+      "title": "订阅追踪",
+      "url": "https://s.oxue.de",
+      "desc": "有什么要过期了吗"
+    },
+    {
+      "icon": "",
       "title": "其他",
       "desc": "一些杂七杂八的东西"
+    },
+    {
+      "icon": "https://www.roc.us.ci/self/favicon.ico",
+      "title": "傲雪の - 备用",
+      "url": "https://www.roc.us.ci",
+      "desc": "博客备用地址"
     }
   ],
   "sitesConfig": {
@@ -128,7 +145,7 @@
   },
   "sliders": {
     "data": [],
-    "title": "技能加点",
+    "title": "",
     "color": "linear-gradient(to right, #ffafbd 0%, #c9ffbf 100%)",
     "hidden": false,
     "column": 4
@@ -139,7 +156,7 @@
     "ICP": "萌ICP备20252235号",
     "MPSICP": "",
     "direction": "col-reverse",
-    "isExternal": true
+    "isExternal": false
   },
   "resources": {
     "css": [],
