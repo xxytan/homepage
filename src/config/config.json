@@ -1,0 +1,150 @@
+{
+  "name": "傲雪の顶",
+  "favicon": "/favicon.ico",
+  "keywords": "Kentural,Kentの主页,傲雪の顶,傲雪の,个人主页,主页,个人记录,技术博客,个人生活",
+  "description": "Kent's Homepage",
+  "avatarConfig": {
+    "src": "https://b.oxue.de/self/avatar.jpg",
+    "size": 150,
+    "round": "full",
+    "style": "wave",
+    "hoverAnimate": "top",
+    "hidden": false,
+    "aloneRight": false
+  },
+  "bgConfig": {
+    "bg": ["https://roc.us.ci/file/bgd(1).jpg"],
+    "mbg": ["https://roc.us.ci/file/bgd(1).jpg"],
+    "bgStyle": "snow",
+    "blur": "",
+    "cardOpacity": 0.1,
+    "carousel": true,
+    "carouselGap": 5,
+    "transitionTime": 0.7,
+    "transitionStyle": "default",
+    "autoAnimate": false
+  },
+  "globalStyle": {
+    "primaryColor": "#0dbf56",
+    "theme": "switcher",
+    "weather": true
+  },
+  "layoutConfig": {
+    "gapSize": "lg",
+    "style": "",
+    "istTransition": true
+  },
+  "subTitle": "https://v1.hitokoto.cn?c=a&c=b&c=c",
+  "subTitleConfig": {
+    "typing": true,
+    "loading": "wave",
+    "loopTyping": true,
+    "shadow": false,
+    "typingCursor": true,
+    "showFrom": true,
+    "style": "desc",
+    "gapDelay": 0.05,
+    "content": "你好呀！我是Kentural",
+    "desc": "这个名字即时兴起，洗碗的时候偶然想到的😋"
+  },
+  "links": [
+    {
+      "title": "qq",
+      "color": "#dfba00",
+      "url": "https://qm.qq.com/q/dMW8b9EhIA",
+      "icon": "qq"
+    },
+    {
+      "title": "telegram",
+      "color": "#1da1f2",
+      "url": "https://t.me/kentural",
+      "icon": "telegram"
+    },
+    {
+      "title": "github",
+      "color": "#000000",
+      "url": "https://github.com/xxytan",
+      "icon": "github"
+    },
+    {
+      "title": "email",
+      "color": "#fd3232",
+      "url": "mailto:msbyshens@outlook.com",
+      "icon": "email"
+    },
+    {
+      "title": "bilibili",
+      "color": "#0088cc",
+      "url": "https://space.bilibili.com/1580336394",
+      "icon": "bilibili"
+    }
+  ],
+  "sites": [
+    {
+      "icon": "https://b.oxue.de/self/favicon.ico",
+      "title": "傲雪の",
+      "url": "https://b.oxue.de",
+      "desc": "我的博客"
+    },
+    {
+      "icon": "https://mail.oxue.de/mail.png",
+      "title": "邮箱",
+      "url": "https://mail.oxue.de",
+      "desc": "我的cloud-mail"
+    },
+    {
+      "icon": "https://oxue.de/sink-1024.png",
+      "title": "短链",
+      "url": "https://oxue.de/dashboard",
+      "desc": "其实也没有很短"
+    },
+    {
+      "icon": "https://roc.us.ci/logo.png",
+      "title": "图床",
+      "url": "https://roc.us.ci",
+      "desc": "弱弱的图床"
+    },
+    {
+      "icon": "",
+      "title": "其他",
+      "desc": "一些杂七杂八的东西"
+    }
+  ],
+  "sitesConfig": {
+    "hidden": false,
+    "cardStyle": "",
+    "hoverBlur": true,
+    "hoverScale": true,
+    "hoverFlip": true,
+    "direction": "row",
+    "modal": true,
+    "modalTips": "",
+    "modalTitle": ""
+  },
+  "socialConfig": {
+    "autoAnimate": true,
+    "loading": "wave",
+    "ripple": true
+  },
+  "sliders": {
+    "data": [],
+    "title": "技能加点",
+    "color": "linear-gradient(to right, #ffafbd 0%, #c9ffbf 100%)",
+    "hidden": false,
+    "column": 4
+  },
+  "footer": {
+    "text": "© 2025 - 2026 Kentural",
+    "url": "https://oxue.de",
+    "ICP": "萌ICP备20252235号",
+    "MPSICP": "",
+    "direction": "col-reverse",
+    "isExternal": true
+  },
+  "resources": {
+    "css": [],
+    "js": [],
+    "bodyHtml": ""
+  },
+  "domain": "https://remio-home.vercel.app"
+}
