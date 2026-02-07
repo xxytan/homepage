@@ -4,7 +4,7 @@
   "keywords": "Kentural,Kentの主页,傲雪の顶,傲雪の,个人主页,主页,个人记录,技术博客,个人生活",
   "description": "Kent's Homepage",
   "avatarConfig": {
-    "src": "https://b.oxue.de/self/avatar.jpg",
+    "src": "https://cdn.jsdelivr.net/gh/xxytan/xxytan/avatar.jpg",
     "size": 150,
     "round": "full",
     "style": "wave",
@@ -86,7 +86,7 @@
   ],
   "sites": [
     {
-      "icon": "https://b.oxue.de/self/favicon.ico",
+      "icon": "https://avatars.githubusercontent.com/u/155360005",
       "title": "傲雪の",
       "url": "https://b.oxue.de",
       "desc": "我的博客"
