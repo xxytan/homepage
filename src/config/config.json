@@ -50,39 +50,39 @@
   "links": [
     {
       "title": "E-mail",
-      "color": "#fd3232",
+      "color": "#fc56a8",
       "url": "mailto:msbyshens@outlook.com",
       "icon": "email"
     },
     {
       "title": "Github",
-      "color": "#000000",
+      "color": "#fc56a8",
       "url": "https://github.com/xxytan",
       "icon": "github"
     },
     {
       "title": "QQ",
-      "color": "#dfba00",
+      "color": "#fc56a8",
       "url": "https://qm.qq.com/q/dMW8b9EhIA",
       "icon": "qq"
     },
     {
       "title": "Telegram",
-      "color": "#1da1f2",
+      "color": "#fc56a8",
       "url": "https://t.me/kentural",
       "icon": "telegram"
     },
     {
       "title": "Bilibili",
-      "color": "#0088cc",
+      "color": "#fc56a8",
       "url": "https://space.bilibili.com/1580336394",
       "icon": "bilibili"
     },
     {
       "title": "Instagram",
-      "color": "#fc50a6",
+      "color": "#fc56a8",
       "url": "https://www.instagram.com/kentur.al",
-      "icon": "instargram"
+      "icon": "instagram"
     }
   ],
   "sites": [
