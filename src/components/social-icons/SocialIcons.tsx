@@ -15,7 +15,7 @@ import {
   Steam,
   Bilibili,
   Discord,
-  Instargram,
+  instagram,
   X,
   SvgProps,
 } from "@kasuie/icon";
@@ -52,7 +52,7 @@ export const SocialIcons = ({
     steam: (props: SvgProps) => <Steam {...props} />,
     bilibili: (props: SvgProps) => <Bilibili {...props} />,
     discord: (props: SvgProps) => <Discord {...props} />,
-    instargram: (props: SvgProps) => <Instargram {...props} />,
+    instagram: (props: SvgProps) => <instagram {...props} />,
     x: (props: SvgProps) => <X {...props} />,
   };
 

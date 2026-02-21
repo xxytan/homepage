@@ -4,7 +4,7 @@
   "keywords": "Kentural,Kentの主页,傲雪の顶,傲雪の,个人主页,主页,个人记录,技术博客,个人生活",
   "description": "Kent's Homepage",
   "avatarConfig": {
-    "src": "https://cdn.jsdelivr.net/gh/xxytan/xxytan/avatar.jpg",
+    "src": "https://cdn.jsdmirror.com/gh/xxytan/xxytan@main/avatar.jpg",
     "size": 150,
     "round": "full",
     "style": "wave",
@@ -82,7 +82,8 @@
       "title": "Instagram",
       "color": "#fc50a6",
       "url": "https://www.instagram.com/kentur.al",
-      "icon": "instagram"}
+      "icon": "instargram"
+    }
   ],
   "sites": [
     {
@@ -104,6 +105,12 @@
       "desc": "其实也没有很短"
     },
     {
+      "icon": "",
+      "title": "内容分发",
+      "url": "https://d.oxue.de",
+      "desc": "我的sharepoint"
+    },
+    {
       "icon": "https://roc.us.ci/logo.png",
       "title": "图床",
       "url": "https://roc.us.ci",
@@ -114,17 +121,6 @@
       "title": "订阅追踪",
       "url": "https://s.oxue.de",
       "desc": "有什么要过期了吗"
-    },
-    {
-      "icon": "",
-      "title": "其他",
-      "desc": "一些杂七杂八的东西"
-    },
-    {
-      "icon": "https://www.roc.us.ci/self/favicon.ico",
-      "title": "傲雪の - 备用",
-      "url": "https://www.roc.us.ci",
-      "desc": "博客备用地址"
     }
   ],
   "sitesConfig": {
@@ -151,7 +147,7 @@
     "column": 4
   },
   "footer": {
-    "text": "© 2025 - 2026 Kentural",
+    "text": "© 2025 - 2026 by Kentural",
     "url": "https://oxue.de",
     "ICP": "萌ICP备20252235号",
     "MPSICP": "",
@@ -163,5 +159,5 @@
     "js": [],
     "bodyHtml": ""
   },
-  "domain": "https://remio-home.vercel.app"
+  "domain": "https://www.oxue.de"
 }
