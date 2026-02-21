@@ -50,44 +50,44 @@
   "links": [
     {
       "title": "E-mail",
-      "color": "#fc56a8",
+      "color": "#f0bc96",
       "url": "mailto:msbyshens@outlook.com",
       "icon": "email"
     },
     {
       "title": "Github",
-      "color": "#fc56a8",
+      "color": "#f0bc96",
       "url": "https://github.com/xxytan",
       "icon": "github"
     },
     {
       "title": "QQ",
-      "color": "#fc56a8",
+      "color": "#f0bc96",
       "url": "https://qm.qq.com/q/dMW8b9EhIA",
       "icon": "qq"
     },
     {
       "title": "Telegram",
-      "color": "#fc56a8",
+      "color": "#f0bc96",
       "url": "https://t.me/kentural",
       "icon": "telegram"
     },
     {
       "title": "Bilibili",
-      "color": "#fc56a8",
+      "color": "#f0bc96",
       "url": "https://space.bilibili.com/1580336394",
       "icon": "bilibili"
     },
     {
       "title": "Instagram",
-      "color": "#fc56a8",
+      "color": "#f0bc96",
       "url": "https://www.instagram.com/kentur.al",
       "icon": "instargram"
     }
   ],
   "sites": [
     {
-      "icon": "https://avatars.githubusercontent.com/u/155360005",
+      "icon": "https://cdn.jsdmirror.com/gh/xxytan/xxytan@main/favicon.png",
       "title": "傲雪の",
       "url": "https://b.oxue.de",
       "desc": "我的博客"
@@ -105,7 +105,7 @@
       "desc": "其实也没有很短"
     },
     {
-      "icon": "",
+      "icon": "https://d.oxue.de/favicon.ico",
       "title": "内容分发",
       "url": "https://d.oxue.de",
       "desc": "我的sharepoint"
